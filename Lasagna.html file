@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Odin Recipes</title>
+</head>
+<body>
+  <h1>Odin Recipes</h1>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lasagna</title>
+</head>
+<body>
+  <h1>Lasagna</h1>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Odin Recipes</title>
+</head>
+<body>
+  <h1>Odin Recipes</h1>
+  <ul>
+    <li><a href="recipes/lasagna.html">Lasagna</a></li>
+  </ul>
+</body>
+</html>
+<img src="lasagna.jpg" alt="Lasagna dish" width="500">
+<h2>Description</h2>
+<p>
+  Lasagna is a classic Italian dish that is made with wide, flat pasta sheets layered
+  with a combination of cheeses, meat sauce, and spinach. It is a filling and satisfying
+  meal that is perfect for feeding a crowd.
+</p>
+<h2>Ingredients</h2>
+<ul>
+  <li>1 pound ground beef</li>
+  <li>1 onion, chopped</li>
+  <li>2 cloves garlic, minced</li>
+  <li>1 can (15 ounces) tomato sauce</li>
+  <li>1 can (15 ounces) diced tomatoes</li>
+  <li>1 can (6 ounces) tomato paste</li>
+  <li>1 teaspoon dried basil</li>
+  <li>1/2 teaspoon salt</li>
+  <li>1/2 teaspoon sugar</li>
+  <li>1/2 teaspoon black pepper</li>
+  <li>1/2 teaspoon dried oregano</li>
+  <li>1/2 teaspoon dried thyme</li>
+  <li>1/2 teaspoon dried rosemary</li>
+  <li>12 lasagna noodles</li>
+  <li>2 cups cottage cheese</li>
+  <li>2 cups shredded mozzarella cheese</li>
+  <li>1/2 cup grated Parmesan cheese</li>
+  <li>1 egg, beaten</li>
+</ul>
+
+<h2>Steps</h2>
+<ol>
+ 
